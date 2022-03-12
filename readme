@@ -1,0 +1,10 @@
+PLease run this project with linux
+
+Require: 
+	- swi-prolog
+	- curl
+	
+Use this command to run the project:
+	swipl + '.pl_file_name' + .pl
+then
+	connect4('a number from 1-4').
